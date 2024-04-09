@@ -4,7 +4,11 @@ pass:	123
 năm:	2023
 
 login 02
-id: 	(xem lại code)
-pass:	
+id: 	admin
+pass:	123123
 năm:	
-Bấm cancel
+Nếu bấm LOGIN >> Show Dashboard
+Nếu bấm cancel >> Show UF Check connection
+
+
+pass mở code: Ta#9999
